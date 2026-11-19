@@ -1,0 +1,11 @@
+.env
+*.csv
+*.gz
+*.txt
+*.pt
+*.pdf
+ckpt/
+run/
+__pycache__/
+.ipynb_checkpoints/
+*.json
